@@ -1,0 +1,201 @@
+ID,Age,Gender,Region,Urban/Rural,Household Income (PHP),Parental Education,"OSY Status (1=Yes, 0=No)",Reason Not in School,"ALS Participation (1=Yes, 0=No)"
+1,21,Female,Zamboanga Peninsula,1,25781,HS Graduate,0,Family Help Needed,0
+2,18,Male,Cagayan Valley,1,23051,HS Graduate,0,Early Marriage,0
+3,22,Male,BARMM,1,49649,Vocational,0,Early Marriage,0
+4,19,Female,Central Visayas,1,16949,HS Graduate,0,Financial,0
+5,21,Female,Ilocos Region,0,52289,Elementary,0,N/A,0
+6,24,Male,Eastern Visayas,0,18017,HS Graduate,0,Financial,1
+7,17,Male,Northern Mindanao,1,16941,College,1,Work at Home,0
+8,21,Female,CAR,1,35934,College,0,Financial,0
+9,22,Male,Western Visayas,0,33386,Vocational,0,Financial,1
+10,19,Female,Zamboanga Peninsula,1,20209,Elementary,0,Family Help Needed,0
+11,18,Female,Central Luzon,1,27715,College,0,Early Marriage,1
+12,22,Male,SOCCSKSARGEN,0,38920,College,0,N/A,0
+13,22,Male,Western Visayas,1,41703,Elementary,0,Financial,0
+14,17,Female,CALABARZON,0,52318,HS Graduate,0,N/A,1
+15,20,Female,SOCCSKSARGEN,1,14637,HS Graduate,1,Financial,0
+16,19,Male,Ilocos Region,0,14854,Vocational,0,Work at Home,0
+17,16,Female,Central Visayas,0,53088,HS Graduate,0,Financial,0
+18,22,Male,Caraga,0,47660,Elementary,1,Family Help Needed,1
+19,20,Female,CAR,1,49811,College,0,Early Marriage,0
+20,16,Male,Caraga,0,59289,HS Graduate,0,Work at Home,0
+21,19,Male,Davao Region,1,29856,Vocational,0,Financial,0
+22,15,Male,NCR,1,31833,HS Graduate,0,N/A,0
+23,24,Female,Cagayan Valley,1,29963,Elementary,0,Work at Home,0
+24,20,Female,Cagayan Valley,1,46932,Vocational,1,Work at Home,0
+25,23,Male,BARMM,0,37169,HS Graduate,1,Financial,0
+26,15,Female,Zamboanga Peninsula,0,17941,Vocational,0,Work at Home,0
+27,24,Male,Bicol Region,1,24388,Elementary,1,N/A,1
+28,17,Male,NCR,1,15569,College,1,Work at Home,0
+29,21,Female,Northern Mindanao,0,14300,Elementary,0,N/A,0
+30,18,Female,MIMAROPA,1,49037,Elementary,0,Financial,0
+31,23,Male,Ilocos Region,0,46586,Elementary,0,Early Marriage,0
+32,17,Female,Central Visayas,1,22015,Elementary,1,Work at Home,0
+33,19,Female,Davao Region,1,55002,College,1,Early Marriage,0
+34,17,Male,Davao Region,0,16254,College,0,N/A,1
+35,21,Male,MIMAROPA,1,27144,Vocational,0,Work at Home,0
+36,19,Female,Western Visayas,0,34214,HS Graduate,1,Family Help Needed,0
+37,23,Male,CALABARZON,1,50118,College,0,Early Marriage,1
+38,21,Male,Bicol Region,1,25183,College,1,Work at Home,0
+39,16,Female,SOCCSKSARGEN,1,16238,HS Graduate,1,Early Marriage,0
+40,18,Male,NCR,0,16090,College,0,Work at Home,1
+41,23,Male,Central Luzon,1,21637,Elementary,0,Financial,0
+42,16,Female,Central Visayas,1,32415,Elementary,0,Early Marriage,0
+43,24,Female,CAR,1,34071,HS Graduate,0,Family Help Needed,0
+44,23,Male,SOCCSKSARGEN,1,55415,Vocational,0,Family Help Needed,1
+45,24,Male,Zamboanga Peninsula,0,52679,Vocational,0,N/A,0
+46,19,Female,BARMM,0,51240,HS Graduate,1,Work at Home,0
+47,16,Female,MIMAROPA,1,28271,HS Graduate,0,Early Marriage,0
+48,18,Female,Eastern Visayas,0,46034,Elementary,1,N/A,0
+49,21,Female,Davao Region,1,43434,Vocational,0,Early Marriage,1
+50,22,Male,Ilocos Region,1,14188,College,1,Work at Home,0
+51,17,Female,Ilocos Region,1,59823,Elementary,0,Family Help Needed,1
+52,15,Female,NCR,0,20161,HS Graduate,1,Financial,1
+53,18,Male,Cagayan Valley,0,38732,Vocational,0,Family Help Needed,0
+54,16,Female,CAR,0,21314,College,0,N/A,0
+55,22,Male,Central Visayas,0,33954,College,0,Financial,0
+56,18,Female,SOCCSKSARGEN,0,31508,Elementary,1,N/A,0
+57,16,Female,Ilocos Region,0,31969,Vocational,0,Work at Home,0
+58,20,Female,CAR,0,55659,Vocational,1,Financial,0
+59,20,Male,Western Visayas,0,47545,HS Graduate,0,N/A,0
+60,24,Male,MIMAROPA,0,46668,Vocational,1,Work at Home,0
+61,18,Female,Central Luzon,1,33061,Vocational,1,Family Help Needed,0
+62,20,Male,Davao Region,0,23716,Elementary,1,Work at Home,1
+63,16,Male,CAR,0,49749,Vocational,0,Early Marriage,0
+64,24,Male,MIMAROPA,0,49144,College,0,Work at Home,0
+65,16,Male,Caraga,0,26907,Elementary,1,Work at Home,0
+66,24,Male,MIMAROPA,0,28777,Elementary,0,Early Marriage,1
+67,18,Male,NCR,0,37693,HS Graduate,0,N/A,0
+68,22,Female,BARMM,0,52928,Vocational,0,N/A,0
+69,21,Female,Caraga,0,36329,HS Graduate,0,Work at Home,0
+70,23,Male,MIMAROPA,0,56892,College,0,Early Marriage,0
+71,22,Female,Davao Region,0,26282,Elementary,0,Early Marriage,1
+72,19,Female,CAR,0,33624,Elementary,1,Family Help Needed,0
+73,16,Female,CAR,1,33321,Elementary,1,N/A,0
+74,19,Female,Western Visayas,1,20488,College,0,Financial,0
+75,22,Male,CALABARZON,0,32574,College,0,N/A,0
+76,24,Female,Ilocos Region,0,15240,HS Graduate,0,N/A,0
+77,23,Female,MIMAROPA,1,53221,HS Graduate,1,Family Help Needed,0
+78,23,Male,Zamboanga Peninsula,0,20478,HS Graduate,0,Financial,0
+79,15,Male,MIMAROPA,1,55162,Vocational,0,Family Help Needed,0
+80,23,Female,CALABARZON,1,29262,Elementary,1,Financial,0
+81,21,Female,Cagayan Valley,1,14432,Elementary,1,Work at Home,0
+82,23,Female,Zamboanga Peninsula,1,39721,HS Graduate,0,Financial,0
+83,22,Female,Ilocos Region,1,23568,Elementary,0,Family Help Needed,1
+84,15,Female,MIMAROPA,0,24178,HS Graduate,1,N/A,0
+85,22,Female,SOCCSKSARGEN,1,32195,Vocational,1,Financial,0
+86,22,Male,CALABARZON,0,10302,Vocational,1,Financial,0
+87,17,Female,CAR,0,27022,College,0,Early Marriage,0
+88,15,Female,CAR,1,10055,Vocational,1,N/A,0
+89,22,Male,Cagayan Valley,1,55781,HS Graduate,1,Work at Home,1
+90,17,Male,BARMM,0,18717,Vocational,0,Family Help Needed,0
+91,17,Male,Davao Region,1,38699,College,1,Work at Home,0
+92,15,Male,Central Luzon,1,18150,Elementary,0,N/A,0
+93,19,Female,Ilocos Region,0,12125,HS Graduate,1,Financial,0
+94,24,Female,Ilocos Region,0,54247,Elementary,1,Financial,0
+95,21,Female,Northern Mindanao,1,58513,College,1,N/A,0
+96,24,Female,MIMAROPA,0,26748,College,0,Financial,1
+97,23,Female,Davao Region,1,49577,College,0,Financial,1
+98,21,Female,Central Luzon,1,14621,Elementary,0,Financial,0
+99,23,Male,Ilocos Region,1,25034,Elementary,0,Family Help Needed,0
+100,22,Female,Ilocos Region,0,56391,Elementary,0,Family Help Needed,0
+101,16,Male,Central Visayas,0,15126,Elementary,1,Early Marriage,0
+102,15,Male,Zamboanga Peninsula,0,15122,College,1,Work at Home,1
+103,21,Female,Northern Mindanao,0,28030,College,0,N/A,1
+104,21,Male,Davao Region,0,27302,HS Graduate,1,N/A,0
+105,22,Female,SOCCSKSARGEN,1,29181,HS Graduate,1,N/A,0
+106,19,Male,Davao Region,1,48638,Elementary,1,Early Marriage,0
+107,17,Female,Caraga,1,11531,Vocational,1,Family Help Needed,0
+108,22,Male,Cagayan Valley,1,50940,Vocational,1,Early Marriage,1
+109,20,Female,Central Luzon,0,50441,College,0,N/A,0
+110,17,Female,BARMM,1,33333,College,0,Work at Home,0
+111,15,Female,Central Visayas,0,49650,College,0,Financial,0
+112,17,Female,Zamboanga Peninsula,1,44674,HS Graduate,0,Family Help Needed,0
+113,19,Female,Cagayan Valley,0,45854,HS Graduate,1,Family Help Needed,0
+114,17,Male,Eastern Visayas,0,56271,College,1,Early Marriage,1
+115,15,Male,Western Visayas,1,18152,College,0,Family Help Needed,1
+116,19,Male,CALABARZON,1,48518,College,0,N/A,0
+117,24,Female,SOCCSKSARGEN,1,55540,Vocational,1,N/A,0
+118,21,Male,Northern Mindanao,1,20267,HS Graduate,0,Early Marriage,0
+119,21,Female,CALABARZON,0,35289,Vocational,0,N/A,0
+120,23,Female,CALABARZON,1,11062,Vocational,0,Work at Home,0
+121,24,Male,Zamboanga Peninsula,1,39926,College,0,Early Marriage,0
+122,24,Male,MIMAROPA,0,16229,College,1,Work at Home,0
+123,17,Female,Eastern Visayas,1,59277,Elementary,0,Financial,1
+124,21,Male,Central Luzon,1,57915,Elementary,0,Work at Home,0
+125,15,Female,BARMM,1,14632,Vocational,1,Financial,1
+126,18,Female,Central Luzon,1,49056,HS Graduate,0,Financial,0
+127,18,Female,CAR,1,13596,College,0,Work at Home,0
+128,19,Female,CALABARZON,0,54243,College,0,Early Marriage,1
+129,21,Female,BARMM,1,16168,Vocational,0,N/A,0
+130,21,Male,Western Visayas,1,52563,Elementary,0,N/A,0
+131,18,Male,MIMAROPA,1,17561,HS Graduate,1,Financial,0
+132,21,Female,Davao Region,1,18258,Elementary,1,Financial,0
+133,17,Female,BARMM,1,26616,Elementary,0,Early Marriage,1
+134,20,Male,SOCCSKSARGEN,0,36734,Elementary,0,Family Help Needed,0
+135,16,Male,Central Luzon,1,16371,Elementary,1,Work at Home,0
+136,24,Female,Eastern Visayas,0,36069,College,1,Financial,1
+137,23,Male,BARMM,0,24369,College,0,N/A,0
+138,19,Female,BARMM,1,22910,Elementary,0,Early Marriage,1
+139,20,Male,CAR,1,17943,HS Graduate,0,Work at Home,1
+140,18,Female,SOCCSKSARGEN,1,22199,Vocational,1,Early Marriage,0
+141,24,Male,BARMM,1,25728,HS Graduate,1,Work at Home,1
+142,21,Female,CALABARZON,0,33275,HS Graduate,1,Work at Home,0
+143,23,Male,Davao Region,1,16738,HS Graduate,0,Financial,0
+144,21,Male,Eastern Visayas,1,25913,Elementary,1,Early Marriage,0
+145,15,Female,Davao Region,1,45240,College,0,Early Marriage,0
+146,15,Male,Eastern Visayas,1,29123,HS Graduate,1,N/A,1
+147,23,Female,Western Visayas,1,58447,Elementary,0,N/A,1
+148,23,Male,Caraga,1,44529,HS Graduate,0,Financial,0
+149,18,Female,NCR,0,20167,HS Graduate,0,Financial,0
+150,23,Male,CAR,0,20554,Elementary,1,Family Help Needed,1
+151,17,Female,MIMAROPA,1,27260,College,1,N/A,0
+152,21,Male,Central Luzon,1,57045,College,1,Work at Home,1
+153,20,Female,Davao Region,1,13812,Vocational,0,Early Marriage,0
+154,22,Male,CALABARZON,0,38024,Elementary,0,Financial,0
+155,23,Female,CAR,1,37285,Vocational,0,Early Marriage,0
+156,19,Female,Western Visayas,0,36900,Vocational,0,Early Marriage,0
+157,15,Female,SOCCSKSARGEN,1,11605,Vocational,0,Family Help Needed,0
+158,17,Male,Zamboanga Peninsula,1,15622,College,1,N/A,0
+159,24,Female,Western Visayas,1,16767,Elementary,0,Financial,0
+160,22,Male,Caraga,1,37139,Vocational,0,Early Marriage,1
+161,20,Female,MIMAROPA,0,21613,Elementary,0,Financial,0
+162,22,Male,Central Luzon,0,20589,Elementary,0,Work at Home,0
+163,23,Female,Northern Mindanao,1,23918,College,1,Family Help Needed,0
+164,18,Male,Northern Mindanao,1,30119,Vocational,1,Work at Home,0
+165,15,Male,NCR,0,37446,Vocational,0,Financial,0
+166,15,Female,Davao Region,0,23046,Elementary,1,Financial,0
+167,24,Male,Eastern Visayas,0,34818,HS Graduate,0,N/A,0
+168,18,Male,Zamboanga Peninsula,0,45358,College,1,Early Marriage,1
+169,21,Female,Davao Region,1,14324,College,0,Early Marriage,1
+170,16,Male,BARMM,0,20787,College,1,Work at Home,0
+171,17,Male,Bicol Region,1,19111,College,0,Family Help Needed,1
+172,15,Male,Western Visayas,0,48110,Vocational,0,Early Marriage,0
+173,19,Female,Caraga,0,26389,Vocational,1,N/A,0
+174,15,Male,SOCCSKSARGEN,0,51427,HS Graduate,0,Work at Home,0
+175,22,Female,Central Visayas,0,24043,College,0,Work at Home,0
+176,15,Male,Zamboanga Peninsula,0,38746,College,0,N/A,1
+177,15,Male,Eastern Visayas,1,32350,Elementary,0,Family Help Needed,0
+178,16,Male,Cagayan Valley,1,51605,Vocational,0,N/A,0
+179,16,Female,MIMAROPA,0,10117,College,1,Family Help Needed,0
+180,20,Male,MIMAROPA,0,56685,HS Graduate,1,N/A,0
+181,21,Male,Bicol Region,1,28935,HS Graduate,1,N/A,0
+182,19,Female,Central Visayas,0,57077,Vocational,0,Financial,0
+183,15,Male,CAR,0,23234,HS Graduate,1,Work at Home,0
+184,15,Female,SOCCSKSARGEN,1,48328,HS Graduate,0,N/A,0
+185,17,Female,Ilocos Region,0,10846,Vocational,0,N/A,0
+186,16,Male,BARMM,0,20954,College,1,Early Marriage,1
+187,19,Female,Western Visayas,1,23703,College,0,Work at Home,0
+188,24,Male,SOCCSKSARGEN,1,58153,HS Graduate,1,Early Marriage,1
+189,20,Female,CALABARZON,1,56514,HS Graduate,1,Work at Home,1
+190,21,Female,CALABARZON,0,32700,College,0,Early Marriage,0
+191,18,Male,Bicol Region,1,42043,Vocational,0,N/A,0
+192,21,Female,Davao Region,1,16469,HS Graduate,0,N/A,0
+193,22,Female,Western Visayas,1,40105,Elementary,0,Financial,0
+194,15,Female,Zamboanga Peninsula,1,52101,Vocational,1,Early Marriage,0
+195,20,Female,Western Visayas,1,36386,HS Graduate,0,Family Help Needed,0
+196,22,Female,Central Luzon,1,59376,HS Graduate,0,Financial,0
+197,19,Male,SOCCSKSARGEN,0,55587,Elementary,0,Early Marriage,0
+198,18,Female,SOCCSKSARGEN,0,46976,Elementary,1,Early Marriage,0
+199,16,Male,Central Visayas,1,49051,College,0,Financial,1
+200,20,Female,Eastern Visayas,1,12048,Vocational,0,N/A,0
